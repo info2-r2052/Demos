@@ -1,5 +1,15 @@
 # 🥤 Demo ESP32 Bridge UART TCP
 
+## Proyectos
+
+### 1. VS Code para ESP32
+    Server_Bridge_UART.zip (chequear versión del kit del ESP32 para que coincidad los pines de la UART)
+### 2. QT app
+    NodeMcuTCPClient.zip
+### 3. LPC845 app
+    MQTT_Client.zip
+            
+
 ## Requisitos
 
 ### 1. Plugin ESP-IDF
